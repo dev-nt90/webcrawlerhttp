@@ -1,0 +1,19 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "Learning JS/Node by building a web crawler",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "Nathanael Thompson",
+  "license": "ISC",
+  "devDependencies": {
+    "debug": "^4.3.4",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^24.0.0"
+  }
+}
